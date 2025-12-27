@@ -1,4 +1,10 @@
-# sameeksha-soni
+# 💫 Hi 👋, I'm Sameeksha Soni
+**A passionate Machine Learning Engineer**
+
+Email Me 👉 ✉️ **sameekshasoni26@gmail.com** 
+
+- 🌱 **I’m currently learning:** Artificial Intelligence and Machine Learning
+- 📫 **How to reach me:** sameekshasoni26@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sameekshasoni586) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameekshasoni26@gmail.com) 
